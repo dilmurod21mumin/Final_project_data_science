@@ -1,3 +1,6 @@
+# Yakuniy loyiha
+
+### (report)
 ## Gipotezalar va natijalar
 
 Yangi mijozlar ko'proq ketadimi degan gipotezani tekshirsak, datasetda jami 378 ta yangi mijoz ketgan.
